@@ -11,9 +11,11 @@ Ensures a responsive layout across different screen sizes.
 🛠️ Technologies Used
 
 HTML – Structuring the page.
+
 CSS – Styling and transformations.
 
 🚀 Live Demo
+
 View Project  (https://abhishekdevelops.github.io/Penguin/)
 
 
